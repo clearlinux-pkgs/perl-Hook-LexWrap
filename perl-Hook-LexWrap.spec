@@ -4,7 +4,7 @@
 #
 Name     : perl-Hook-LexWrap
 Version  : 0.26
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Hook-LexWrap-0.26.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Hook-LexWrap-0.26.tar.gz
 Summary  : 'Lexically scoped subroutine wrappers'
@@ -97,4 +97,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Hook/LexWrap.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Hook/LexWrap.pm
