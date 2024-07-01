@@ -4,7 +4,7 @@
 #
 Name     : perl-Hook-LexWrap
 Version  : 0.26
-Release  : 15
+Release  : 16
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Hook-LexWrap-0.26.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Hook-LexWrap-0.26.tar.gz
 Summary  : 'Lexically scoped subroutine wrappers'
